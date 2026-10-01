@@ -1,5 +1,5 @@
 s = int(input("Enter starting number: "))
-n = int(input("Enter ending number: "))
 
-for i in range(s,n+1):
+
+for i in range(s,s+11):
     print(i**2)
